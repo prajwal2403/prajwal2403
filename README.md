@@ -5,7 +5,13 @@
 # 🌟 Hi there, I'm **Prajwal Khobragade** 🌟
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+Full+Stack+Developer+🚀;🧠+Machine+Learning+Enthusiast+🧠;🔧+Problem+Solver+%26+Innovator+🔧;✨+Code+%3D+Poetry+✨;💪+Always+Learning+%26+Growing+💪;🌟+Building+Smart+Solutions+with+Tech+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+Full+Stack+Developer+🚀;🧠+Machine+Learning+Enthusiast+🧠;🔧+Problem+Solver+%26+Innovator+🔧;✨+Code+%3D+Poetry+✨;💪+Always+Learning+%26+Growing+💪;🌟+Building+Smart+Solutions+with+Tech+🌟" alt="Typing SVG" />
+</p>
+
+<!-- Fallback static text in case typing animation doesn't load -->
+<p align="center">
+  <h3>🚀 Full Stack Developer | 🧠 ML Enthusiast | 🔧 Problem Solver</h3>
+  <h4>✨ Code = Poetry ✨ | 💪 Always Learning & Growing 💪</h4>
 </p>
 
 <p align="center">
