@@ -1,80 +1,142 @@
-<h1 align="center">Hi 👋, I'm Prajwal Khobragade</h1>
-<h3 align="center">🚀 A passionate Full Stack Developer and ML Enthusiast from India</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Code+%3D+Poetry+%E2%9C%A8;Always+Learning+%F0%9F%92%AA;Building+Smart+Solutions+with+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+# 🌟 Hi there, I'm **Prajwal Khobragade** 🌟
+
+### 🚀 *Full Stack Developer* | 🧠 *ML Enthusiast* | 🔧 *Problem Solver*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Code+%3D+Poetry+✨;💪+Always+Learning+%26+Growing+💪;🚀+Building+Smart+Solutions+with+Tech+🚀" alt="Typing SVG" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontAlignY=32&desc=Let's%20build%20something%20amazing%20together&descAlignY=51&descAlign=50&fontColor=ffffff"/>
+
+</div>
+
+---
+
+## 🎯 **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+```javascript
+const prajwal = {
+    education: "🎓 B.Tech Computer Engineering @ PCCOE",
+    passion: ["🤖 Machine Learning", "🌐 Full-Stack Development"],
+    currentFocus: [
+        "⚡ Energy Optimization",
+        "🏥 Healthcare AI", 
+        "🎯 Clustering-based Recommendation Systems"
+    ],
+    achievement: "🥈 Runner-Up at Alpha Byte 2.0 National Hackathon",
+    project: "🏆 Aisculapius – AI-powered Clinical Decision System",
+    askMeAbout: ["MERN", "FastAPI", "Python ML", "OpenCV", "Data Mining"],
+    contact: "📧 prajwal.khobragade24@gmail.com",
+    portfolio: "🌐 portfolio-gamma-nine-38.vercel.app"
+};
+```
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### **🎨 Frontend Universe**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
----
-
-## 🌟 About Me:
-- 🎓 B.Tech Computer Engineering Student at PCCOE
-- 💡 I love solving real-world problems using **ML**, **Data Science**, and **Full-Stack Web Development**
-- 🛠️ Currently working on: `Energy Optimization`, `Healthcare AI`, `Clustering-based Recommendation Systems`
-- 💬 Ask me about: `MERN`, `FastAPI`, `Python ML`, `OpenCV`, `Data Mining`
-- ✨ Runner-Up at **Alpha Byte 2.0 National Hackathon** 🚀 *(Project: Aisculapius – AI-based Clinical Decision System)*
-- 📫 How to reach me: [prajwal.khobragade24@gmail.com](mailto:prajwal.khobragade24@gmail.com)
-
-
----
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📊 Data Science Stack:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🌐 Deployment Platforms:
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
----
-
-## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwal2403&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prajwal2403&theme=dark&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal2403&theme=dark&hide_border=false&layout=compact"/>
+### **⚙️ Backend & Database Powerhouse**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql,mysql" />
 </p>
 
+### **💻 Programming Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,r,php" />
+</p>
+
+### **📊 Data Science & AI Magic**
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### **☁️ Cloud & Deployment**
+<p>
+<img src="https://skillicons.dev/icons?i=netlify,vercel" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
+
+</div>
+
 ---
 
-## 🏆 Achievements:
-- 🥈 **Runner-Up at Alpha Byte 2.0 Hackathon**
-- 🧠 Built real-time AI-powered CDSS (Clinical Decision Support System)
-- 🌱 Learning **LLMs**, **Docker**, and **Kubernetes**
+## 📊 **GitHub Analytics**
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prajwal2403&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=73C0DB&count_private=true&include_all_commits=true" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=prajwal2403&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=73C0DB&sideNums=73C0DB&currStreakNum=F8D866&sideLabels=F85D7F" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal2403&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=73C0DB&layout=compact&langs_count=8" width="60%"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer"/>
+</div>
 
 ---
 
-## 📬 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal2403/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalofficial2403@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-in%20progress-blueviolet?style=for-the-badge)](#)
+## 🏆 **Hall of Fame**
+
+<div align="center">
+
+```diff
++ 🥈 Runner-Up at Alpha Byte 2.0 National Hackathon
++ 🧠 Built real-time AI-powered CDSS (Clinical Decision Support System)  
++ 🌱 Currently exploring LLMs, Docker & Kubernetes
+```
+
+<img src="https://github-profile-trophy.vercel.app/?username=prajwal2403&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=prajwal2403&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 **Let's Connect & Collaborate!**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<a href="https://portfolio-gamma-nine-38.vercel.app/">
+<img src="https://img.shields.io/badge/🌟%20Portfolio-Live%20Website-00D8FF?style=for-the-badge&logoColor=white&labelColor=000000"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prajwal2403/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:prajwalofficial2403@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontAlignY=70&fontColor=ffffff&desc=✨%20Let's%20build%20the%20future%20together%20✨&descAlignY=88&descAlign=50"/>
+
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=prajwal2403&icon=2&color=6)](https://visitcount.itsvg.in)
+
+</div>
